@@ -14,15 +14,15 @@ Ramadhan Tracker adalah template Obsidian yang dirancang untuk membantu kamu men
 
 
 # 🚀 Quick Start
-🛠 Install Obsidian: Jika belum memiliki Obsidian, unduh dan instal dari situs resminya.
-⬇️ Download Template: Unduh file dari repository ini dan masukkan ke dalam vault Obsidian kamu.
-📂 Gunakan & Sesuaikan: Bebas untuk mengedit dan menyesuaikan sesuai kebutuhanmu.
+1. 🛠 Install Obsidian: Jika belum memiliki Obsidian, unduh dan instal dari situs resminya.
+2. ⬇️ Download Template: Unduh file dari repository ini dan masukkan ke dalam vault Obsidian kamu.
+3. 📂 Gunakan & Sesuaikan: Bebas untuk mengedit dan menyesuaikan sesuai kebutuhanmu.
 
 # 🌟 Features🔥 Heatmap Score: Visualisasi amalan harian dalam bentuk heatmap.
-📈 Streak Counter: Melihat berapa hari berturut-turut kamu berhasil menjaga amalan.
-🎯 Automatic Progress Calculation: Menampilkan progres harian dengan bobot poin untuk setiap amalan.
-📱 Support Multiple Devices: Bisa digunakan di berbagai perangkat Laptop/Smartphone (Android, Windows, iOS, MacOS).
-🌐 Online & Offline Mode: Update kapan saja dan di mana saja, tanpa perlu koneksi internet.
+1. 📈 Streak Counter: Melihat berapa hari berturut-turut kamu berhasil menjaga amalan.
+2. 🎯 Automatic Progress Calculation: Menampilkan progres harian dengan bobot poin untuk setiap amalan.
+3. 📱 Support Multiple Devices: Bisa digunakan di berbagai perangkat Laptop/Smartphone (Android, Windows, iOS, MacOS).
+4. 🌐 Online & Offline Mode: Update kapan saja dan di mana saja, tanpa perlu koneksi internet.
 
 # 📥 Installation Guide
 1. Download repository ini.
