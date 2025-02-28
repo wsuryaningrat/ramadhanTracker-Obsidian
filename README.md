@@ -1,6 +1,9 @@
 # 🌙 Ramadhan Tracker - Obsidian
 
-Ramadhan Tracker adalah template Obsidian yang dirancang untuk membantu kamu mencatat dan melacak amalan selama bulan Ramadhan dengan visualisasi yang menarik. 📊✨
+Ramadhan Tracker adalah sistem pencatatan berbasis Obsidian Notes yang dirancang untuk membantu kamu mencatat dan melacak amalan selama bulan Ramadhan dengan visualisasi yang menarik. 📊✨
+
+# 📝 Apa Itu Obsidian?
+Obsidian adalah aplikasi pencatat berbasis Markdown yang mendukung JavaScript (DataviewJS & Templater) untuk query dinamis, CSS untuk kustomisasi tampilan User Interface, serta TypeScript/JavaScript untuk pengembangan plugin tambahan.
 
 ![image](https://github.com/user-attachments/assets/ec216c1e-7b98-4a22-ad3e-b8d79da1ad08)
 ![image](https://github.com/user-attachments/assets/823f0341-7681-427a-ba5d-2f60499e432c)
